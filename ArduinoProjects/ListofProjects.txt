@@ -1,0 +1,7 @@
+1. Blink LED
+2. Servo Motor Control
+3. Print message to I2C display
+3. Reading IR Sensor Serial data
+4. RFID Based Gate/Door Control System
+5. RFID based Parking System
+6. Sensor Based Smart Parking System
