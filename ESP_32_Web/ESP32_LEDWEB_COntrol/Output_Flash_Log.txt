@@ -1,0 +1,74 @@
+Sketch uses 996788 bytes (76%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 45284 bytes (13%) of dynamic memory, leaving 282396 bytes for local variables. Maximum is 327680 bytes.
+esptool.py v4.8.1
+Serial port COM5
+Connecting....
+Chip is ESP32-D0WD-V3 (revision v3.1)
+Features WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+Crystal is 40MHz
+MAC 142b2fda7ba8
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 921600
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00001000 to 0x00007fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x00103fff...
+Compressed 24976 bytes to 15953...
+Writing at 0x00001000... (100 %)
+Wrote 24976 bytes (15953 compressed) at 0x00001000 in 0.5 seconds (effective 400.3 kbits)...
+Hash of data verified.
+Compressed 3072 bytes to 146...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.1 seconds (effective 245.7 kbits)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 630.2 kbits)...
+Hash of data verified.
+Compressed 997152 bytes to 601415...
+Writing at 0x00010000... (2 %)
+Writing at 0x0001c1a2... (5 %)
+Writing at 0x00027010... (8 %)
+Writing at 0x00032e54... (10 %)
+Writing at 0x00049c9a... (13 %)
+Writing at 0x0004f6e0... (16 %)
+Writing at 0x00055424... (18 %)
+Writing at 0x0005b77c... (21 %)
+Writing at 0x00061012... (24 %)
+Writing at 0x0006657d... (27 %)
+Writing at 0x0006bd9a... (29 %)
+Writing at 0x00071136... (32 %)
+Writing at 0x00076796... (35 %)
+Writing at 0x0007becc... (37 %)
+Writing at 0x0008153f... (40 %)
+Writing at 0x00086dfc... (43 %)
+Writing at 0x0008c1c5... (45 %)
+Writing at 0x000915cd... (48 %)
+Writing at 0x00096c13... (51 %)
+Writing at 0x0009c30c... (54 %)
+Writing at 0x000a2025... (56 %)
+Writing at 0x000a78e0... (59 %)
+Writing at 0x000aceb8... (62 %)
+Writing at 0x000b209c... (64 %)
+Writing at 0x000b7488... (67 %)
+Writing at 0x000bcb3c... (70 %)
+Writing at 0x000c243c... (72 %)
+Writing at 0x000c778a... (75 %)
+Writing at 0x000cce79... (78 %)
+Writing at 0x000d2fbb... (81 %)
+Writing at 0x000d89e8... (83 %)
+Writing at 0x000df504... (86 %)
+Writing at 0x000e968e... (89 %)
+Writing at 0x000eecc3... (91 %)
+Writing at 0x000f3d68... (94 %)
+Writing at 0x000f96cf... (97 %)
+Writing at 0x000ff26b... (100 %)
+Wrote 997152 bytes (601415 compressed) at 0x00010000 in 9.8 seconds (effective 813.8 kbits)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
