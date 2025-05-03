@@ -3,7 +3,7 @@
 
 // Wi-Fi credentials
 const char* ssid = "1703Callender";        // Your Wi-Fi SSID
-const char* password = "bradleyuniversity";  // Your Wi-Fi password
+const char* password = "Password";  // Your Wi-Fi password
 
 // GPIO pin for the LED
 const int ledPin = 2;
