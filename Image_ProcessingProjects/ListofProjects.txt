@@ -1,0 +1,10 @@
+Reading Static Images using Arduino Mega and Display it in I2C
+
+For Face Reader eye close open detection, finger count we need tesseract and tesseract-ocr. 
+For Face recognition need face recognition library.
+For face recog need dlib to be builded for the building we need cmake and visual studio++ for building   or we can use prebuild dlib.
+Thanks! Since you're using:
+✅ Python 3.12.3
+✅ 64-bit Windows
+Unfortunately, there is no precompiled dlib wheel available for Python 3.12 yet — which is why you're running into constant build errors. dlib and face_recognition do not currently support Python 3.12 officially.
+
